@@ -1,2 +1,1 @@
-# mi-primero-repositorio
-este es un repositorio de prueba xd
+este es el primer repositorio para clonarlo en git hub a mi escritorio
